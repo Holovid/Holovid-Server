@@ -32,7 +32,7 @@ allprojects {
         //implementation "ws.schild:jave-nativebin-linux64:3.1.1"
         //implementation "ws.schild:jave-nativebin-osx64:3.1.1"
 
-        implementation "com.github.sealedtx:java-youtube-downloader:2.5.2"
+        implementation "com.github.sealedtx:java-youtube-downloader:3.1.0"
     }
 
     // btw: File -> Settings -> Build, Execution, Deployment -> Build Tools -> Gradle
